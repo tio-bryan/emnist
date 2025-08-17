@@ -1,7 +1,5 @@
 # eminist classifier task
 
-# eminist
-
 ## Descrição
 
 ## Experimentos
@@ -13,3 +11,4 @@
 ## Backlog
 
 [docs/backlog.md](docs/backlog.md)
+
