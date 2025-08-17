@@ -1,3 +1,5 @@
+# eminist classifier task
+
 # eminist
 
 ## Descrição
@@ -6,4 +8,8 @@
 
 ## nbdev intruções
 
-### teste
+[docs/nbdev-usage.md](docs/nbdev-usage.md)
+
+## Backlog
+
+[docs/backlog.md](docs/backlog.md)
