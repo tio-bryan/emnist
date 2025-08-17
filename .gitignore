@@ -1,5 +1,5 @@
-*.ipynb
 .ipynb_checkpoints
+**/.last_checked
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
