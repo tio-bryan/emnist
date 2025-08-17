@@ -1,4 +1,11 @@
 # eminist classifier task
 
-## preparação do ambiente compatível com jupyter notebooks
+# eminist
+
+## Descrição
+
+## Experimentos
+
+## nbdev intruções
+
 [docs/nbdev-usage.md](docs/nbdev-usage.md)
