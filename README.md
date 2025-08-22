@@ -2,14 +2,22 @@
 
 ## Descrição
 
+Este repositório contém o código para treinar um classificador de dígitos manuscritos usando o dataset EMNIST[^1]. O objetivo é explorar técnicas de aprendizado de máquina e deep learning para reconhecer caracteres manuscritos.
+
 ## Experimentos
+
+[exploração inicial](src/experiments/raw_internal_imports.ipynb)
 
 ## nbdev intruções
 
-[docs/nbdev-usage.md](docs/nbdev-usage.md)
+[nbdev: solução para notebooks em repositório](docs/nbdev-usage.md)
 
 ## Backlog
 
-[docs/backlog.md](docs/backlog.md)
+[backlog](docs/backlog.md)
 
-teste 3
+## Referências
+
+[references](docs/references.md)
+
+[^1]: dataset : https://www.kaggle.com/datasets/crawford/emnist
